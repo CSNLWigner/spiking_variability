@@ -1,7 +1,10 @@
 # spiking_variability
 Simulation codes for https://arxiv.org/abs/1605.08909
 
-To reproduce figures, have the tools folder on your MATLAB path. Tested on OS X and Linux. 
+Data is available from the Bethge Lab website:
+http://bethgelab.org/media/uploads/files/data_v1_binned_static.zip
+
+To reproduce figures, have the tools folder on your MATLAB path. Figures 2-7 can be reproduced by running the respective scripts. Tested on OS X and Linux. 
 
 **Figures 8 and 10**
 ```
